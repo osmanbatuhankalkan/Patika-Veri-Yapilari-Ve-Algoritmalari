@@ -1,0 +1,22 @@
+[16, 21, 11, 8, 12, 22] -> Merge Sort
+
+Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
+
+Baslangıc:
+16 21 11 8 12 22 
+
+Merged: 11 21 
+Merged: 11 16 21 
+Merged: 12 22 
+Merged: 8 12 22 
+Merged: 8 11 12 16 21 22 
+
+Sonuc:
+8 11 12 16 21 22 
+---------------------------------------------------------------
+Big-O gösterimini yazınız.
+
+Birleştirme Sıralamasının algoritma karmaşıklığına bakıldığında O(nlogn) olarak bulunur.
+Çünkü üzerinde çalışılan dizi her adımda 2ye bölünmüştür böylece sonuç dizisi olan 2şer elemanlı dizilere log2n adımda ulaşılabilir.
+Daha sonra her n eleman için sıralama yapıldığı ve her n eleman üzerinden geçildiği için bu değer çarpan olarak gelmekte ve sonuç nlogn olarak bulunmaktadır.
+Big-O gösterimi O(n * logn)'dir
