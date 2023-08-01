@@ -1,0 +1,47 @@
+[22,27,16,2,18,6] -> Insertion Sort
+Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.
+Çözüm:
+                                           Seçilen
+1.Adım: [22, 27, 16, 2, 18, 6]              -27-
+2.Adım: [22, 27, 16, 2, 18, 6]              -16-
+3.Adım: [16, 22, 27, 2, 18, 6]              -2- 
+4.Adım: [2, 16, 22, 27, 18, 6]              -18- 
+5.Adım: [2, 16, 18, 22, 27, 6]              -6- 
+6.Adım: [2, 6, 16, 18, 22, 27]               -
+    ==  [2 6 16 18 22 27]
+---------------------------------------------------------------
+Big-O Gösterimini Yapınız.
+
+N elemanlı bir diziyi sıralamak için:
+
+1 + 2 + ... + (n-1) + n
+
+= (n * (n+1)) / 2
+
+= (n² + n) / 2
+
+= O(n²)
+---------------------------------------------------------------
+Time Complexity: Dizi sıralandıktan sonra 18 sayısı aşağıdaki case'lerden hangisinin kapsamına girer? Yazınız.
+
+Average case: Aradığımız sayının ortada olması
+
+Worst case: Aradığımız sayının sonda olması
+
+Best case: Aradığımız sayının dizinin en başında olması.
+
+Cevap == Dizimize baktığımızda kurala göre dizimizde ortada olan sayımız 18 olduğundan cevabımız ""Average case""
+---------------------------------------------------------------
+SELECTİON SHORT PROJEMİZ
+[7,3,5,8,2,9,4,15,6] dizisinin Selection Sort'a göre ilk 4 adımını yazınız.
+
+ÇÖZÜM:
+
+Başlangıç Dizisi:
+7 3 5 8 2 9 4 15 6 //sıralamada bozuk olarak en küçük olan sayının 2 olduğu saptanır ve 7 ile yer değiştirilir
+
+Adım 1: 2 3 5 8 7 9 4 15 6 //sıralamada bozuk olarak en küçük olan sayının 4 olduğu saptanır ve 5 ile yer değiştirilir
+Adım 2: 2 3 4 8 7 9 5 15 6 //sıralamada bozuk olarak en küçük olan sayının 5 olduğu saptanır ve 8 ile yer değiştirilir
+Adım 3: 2 3 4 5 7 9 8 15 6 //sıralamada bozuk olarak en küçük olan sayının 6 olduğu saptanır ve 7 ile yer değiştirilir
+Adım 4: 2 3 4 5 6 9 8 15 7 //Sonuc olarak 4. adım böyledir
+
