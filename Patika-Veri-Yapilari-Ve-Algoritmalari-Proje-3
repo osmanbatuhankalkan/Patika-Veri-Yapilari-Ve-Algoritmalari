@@ -1,0 +1,23 @@
+Soru
+
+[7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamalarını yazınız.
+Örnek: root x'dir. root'un sağından y bulunur. Solunda z bulunur vb.
+
+---------------------------------------------------------------
+Çözüm: 
+
+5 sayısı 4'ün sağındadır, 7'nin solundadır.
+
+1 sayısı 4'ün solundadır.
+
+8 sayısı 4'ün sağındadır, 7'nin sağındadır.
+
+3 sayısı 4'ün solundadır, 1'in sağındadır.
+
+6 sayısı 4'ün sağındadır, 7'nin solundadır, 5'in sağındadır.
+
+0 sayısı 4'ün solundadır, 1'in solundadır.
+
+9 sayısı 4'ün sağındadır, 7'nin sağındadır, 8'in sağındadır.
+
+2 sayısı 4'ün solundadır, 1'in sağındadır, 3'ün solundadır.
