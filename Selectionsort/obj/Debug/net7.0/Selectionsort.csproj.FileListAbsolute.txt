@@ -1,0 +1,15 @@
+/Users/osmanbatuhankalkan/Desktop/Selectionsort/bin/Debug/net7.0/Selectionsort
+/Users/osmanbatuhankalkan/Desktop/Selectionsort/bin/Debug/net7.0/Selectionsort.deps.json
+/Users/osmanbatuhankalkan/Desktop/Selectionsort/bin/Debug/net7.0/Selectionsort.runtimeconfig.json
+/Users/osmanbatuhankalkan/Desktop/Selectionsort/bin/Debug/net7.0/Selectionsort.dll
+/Users/osmanbatuhankalkan/Desktop/Selectionsort/bin/Debug/net7.0/Selectionsort.pdb
+/Users/osmanbatuhankalkan/Desktop/Selectionsort/obj/Debug/net7.0/Selectionsort.csproj.AssemblyReference.cache
+/Users/osmanbatuhankalkan/Desktop/Selectionsort/obj/Debug/net7.0/Selectionsort.GeneratedMSBuildEditorConfig.editorconfig
+/Users/osmanbatuhankalkan/Desktop/Selectionsort/obj/Debug/net7.0/Selectionsort.AssemblyInfoInputs.cache
+/Users/osmanbatuhankalkan/Desktop/Selectionsort/obj/Debug/net7.0/Selectionsort.AssemblyInfo.cs
+/Users/osmanbatuhankalkan/Desktop/Selectionsort/obj/Debug/net7.0/Selectionsort.csproj.CoreCompileInputs.cache
+/Users/osmanbatuhankalkan/Desktop/Selectionsort/obj/Debug/net7.0/Selectionsort.dll
+/Users/osmanbatuhankalkan/Desktop/Selectionsort/obj/Debug/net7.0/refint/Selectionsort.dll
+/Users/osmanbatuhankalkan/Desktop/Selectionsort/obj/Debug/net7.0/Selectionsort.pdb
+/Users/osmanbatuhankalkan/Desktop/Selectionsort/obj/Debug/net7.0/Selectionsort.genruntimeconfig.cache
+/Users/osmanbatuhankalkan/Desktop/Selectionsort/obj/Debug/net7.0/ref/Selectionsort.dll
